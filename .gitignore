@@ -1,0 +1,4 @@
+*.o
+lexer
+a.out
+.vscode/
